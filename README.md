@@ -7,4 +7,9 @@
  
  
  2 : python3 read.py
+  
+  
+  
+  
+  
   Matrix is ready :) have fun!
