@@ -18,3 +18,5 @@ termux-toast -b red -c yellow "Hi!"
 	sleep 2
 	termux-toast -b black -c white  "github.com/rashtion"
 	sleep 2
+
+cmatrix
